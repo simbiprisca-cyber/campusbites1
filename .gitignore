@@ -1,0 +1,8 @@
+# Ignore all log files
+*.log
+
+# Ignore temporary folder
+temp_folder/
+
+# Ignore credentials file
+my_credentials.txt
